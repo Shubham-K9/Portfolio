@@ -27,7 +27,7 @@ import {
   gms,
   spring,
 } from "../assets";
-import derma from "../assets/derma.png";
+import derma from "../assets/Derma.png";
 
 
 export const navLinks = [
